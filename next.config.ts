@@ -39,6 +39,7 @@ const nextConfig: NextConfig = {
       "www.coinbase.com",
       "www.ledger.com",
       "www.safepal.com",
+      "https://i-p.rmcdn.net",
     ],
   },
 };
