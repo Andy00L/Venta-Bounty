@@ -25,7 +25,9 @@ A living reference for all wallets supporting Solana, detailing their key featur
 
 ## 🚀 Live Demo
 
-🌐 Frontend Web App: _[Add your deployment link here! (e.g. venta.xyz)]_
+🌐 Frontend Web App: https://venta-bounty.vercel.app/
+
+🎥 Video Walkthrough: https://www.loom.com/share/c57c25a55e0c4c379ecec3f9075d2a77?sid=555b3b59-6124-4a4a-bac5-1114e43aacae
 
 ---
 

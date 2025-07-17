@@ -5,7 +5,6 @@ import { Button } from "./ui/button";
 const navItems = [
   { name: "Venta Page", link: "https://www.venta.xyz/" },
   { name: "GitHub", link: "https://github.com/Andy00L/Venta-Bounty" },
-  { name: "Notion Page", link: "/nation" },
 ];
 
 export default function header() {
