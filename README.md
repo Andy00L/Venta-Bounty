@@ -6,20 +6,14 @@ A living reference for all wallets supporting Solana, detailing their key featur
 
 ## 📊 What’s Inside
 
-- ✅ **Wallet Inventory** (mobile, browser-extension, desktop, hardware, custodial)
-- ✅ **Feature Matrix:**
-  - Platforms (iOS, Android, Chrome, etc.)
-  - Custody Model (Self-custody, MPC, Custodial)
-  - In-app DEX swap
-  - NFT gallery
-  - In-app staking
-  - Fiat on/off ramps
-  - Push-notification support
-  - Solana Pay QR reader (Yes / Partial / No)
-- ✅ **Version tested + Date of testing**
-- ✅ **Wallet logos included**
-- ✅ **Interactive Web App** (filter by features, view wallet details)
-- ✅ **Raw data** (in-code JSON, downloadable from the web app)
+| Feature                  | Description/Platforms                                                                                                                                                                                                       |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅ Wallet Inventory      | mobile, browser-extension, desktop, hardware, custodial                                                                                                                                                                     |
+| ✅ Feature Matrix        | Platforms (iOS, Android, Chrome, etc.), Custody Model (Self-custody, MPC, Custodial), In-app DEX swap, NFT gallery, In-app staking, Fiat on/off ramps, Push-notification support, Solana Pay QR reader (Yes / Partial / No) |
+| ✅ Version tested + Date |                                                                                                                                                                                                                             |
+| ✅ Wallet logos included |                                                                                                                                                                                                                             |
+| ✅ Interactive Web App   | filter by features, view wallet details                                                                                                                                                                                     |
+| ✅ Raw data              | in-code JSON, downloadable from the web app                                                                                                                                                                                 |
 
 ---
 
