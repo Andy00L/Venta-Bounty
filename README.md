@@ -34,6 +34,7 @@ A living reference for all wallets supporting Solana, detailing their key featur
 - All wallet data is stored in `ventabounty/components/walletfinder.tsx` as a JSON array.
 - Each wallet entry includes name, website, logo, features, version tested, and notes.
 - **You can also download the latest wallet data as a JSON file directly from the web app using the 'Download Raw JSON' button.**
+- **Evidence (screenshots/recordings) showing verified Solana Pay behaviour is stored in the `ventabounty/SolanaPaybehaviour/` folder.**
 
 ---
 
